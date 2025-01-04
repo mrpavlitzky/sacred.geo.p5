@@ -1,6 +1,6 @@
 
 let width = 1500
-let height = 800
+let height = 700
 
 function setup() {
     createCanvas(width, height);
